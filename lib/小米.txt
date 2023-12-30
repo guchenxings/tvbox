@@ -1,8 +1,8 @@
 {
-  "spider": "clan://TVBox/jar/fm.jar",
+  "spider": "./jar/fm.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-  {"key":"drpy_js_豆瓣","name":"🎟豆瓣┃12.8接口仅测试使用","type":3,"api":"clan://TVBox/JS/lib/drpy.min.js","ext":"clan://TVBox/JS/js/drpy.js"},
+  {"key":"drpy_js_豆瓣","name":"🎟豆瓣┃12.8接口仅测试使用","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
     {
       "key": "Bili",
       "name": "🅱哔哔┃测试不收费不盈利",

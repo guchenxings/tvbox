@@ -1,6 +1,6 @@
 {
   "sites": [
-  {"key":"drpy_js_豆瓣","name":"🐼┃豆瓣┃新微信公众号：肥猫宝贝","type":3,"api":"clan://TVBox/JS/lib/drpy.min.js","ext":"clan://TVBox/JS/js/drpy.js"},
+  {"key":"drpy_js_豆瓣","name":"🐼┃豆瓣┃新微信公众号：肥猫宝贝","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
     {
       "key": "YGP",
       "name": "🚀┃叨观┃荐影",
@@ -1045,5 +1045,5 @@
   ],
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com", "vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"],
   "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
-  "spider":"clan://TVBox/jar/fm.jar"
+  "spider":"./jar/fm.jar"
 }
